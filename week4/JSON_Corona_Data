@@ -1,0 +1,9 @@
+{
+    "data" : [
+	{ "name" : "Los Angeles", "infections" : "255000.0000" },
+	{ "name" : "Riverside", "infections" : "55766.0000" },
+	{ "name" : "Orange", "infections" : "52166.0000" },
+	{ "name" : "San Bernardino", "infections" : "50709.0000" },
+	{ "name" : "San Diego", "infections" : "42950.0000" }
+    ]
+}

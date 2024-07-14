@@ -1,0 +1,18 @@
+Lab 04 - CMPS2020
+
+1. cout << &b; => 2048
+2. cout << a; => 100
+3. cout << &pa; => 1024
+4. cout << b + c; => 250
+5. cout << *pb + *pc; => 250
+6. cout << a + *pb; => 250
+7. cout << *pd; => 2148
+8. cout << pd; => Unknown
+9. cout << pc; => 2048
+10. cout << &a; => 1024
+11. cout << *a; => 100
+12. cout << c *a; => 10000
+13. cout << text[0]; => 250
+14. cout << *(text + 1) << text[3] << *(text + 13); => S
+15. cout << &(text[5]); => 8201
+16. cout << text; => Spring
